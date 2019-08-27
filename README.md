@@ -17,4 +17,4 @@ Short-term electric load forecasting (STLF) plays an increasingly important role
 |Monday	|24	  |  15.32	                             |        24.21|       24.22|	24.75	|  24.15|
 |Rests	|21.76	  |  4.9                                     | 	     19.99|	 21.76	|        20.00|	  20.84|
 
-Code and files for the evaluation of our proposed method
+Code <StatisticalFilter.ipynb>and files for the evaluation of our proposed method
